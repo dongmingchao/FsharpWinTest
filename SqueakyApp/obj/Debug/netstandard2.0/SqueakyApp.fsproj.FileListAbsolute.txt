@@ -1,0 +1,9 @@
+D:\Documents\Projects\FSharp\fabulousTest\SqueakyApp\SqueakyApp\bin\Debug\netstandard2.0\SqueakyApp.deps.json
+D:\Documents\Projects\FSharp\fabulousTest\SqueakyApp\SqueakyApp\bin\Debug\netstandard2.0\SqueakyApp.dll
+D:\Documents\Projects\FSharp\fabulousTest\SqueakyApp\SqueakyApp\bin\Debug\netstandard2.0\SqueakyApp.pdb
+D:\Documents\Projects\FSharp\fabulousTest\SqueakyApp\SqueakyApp\obj\Debug\netstandard2.0\SqueakyApp.fsprojAssemblyReference.cache
+D:\Documents\Projects\FSharp\fabulousTest\SqueakyApp\SqueakyApp\obj\Debug\netstandard2.0\SqueakyApp.AssemblyInfoInputs.cache
+D:\Documents\Projects\FSharp\fabulousTest\SqueakyApp\SqueakyApp\obj\Debug\netstandard2.0\SqueakyApp.AssemblyInfo.fs
+D:\Documents\Projects\FSharp\fabulousTest\SqueakyApp\SqueakyApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documents\Projects\FSharp\fabulousTest\SqueakyApp\SqueakyApp\obj\Debug\netstandard2.0\SqueakyApp.dll
+D:\Documents\Projects\FSharp\fabulousTest\SqueakyApp\SqueakyApp\obj\Debug\netstandard2.0\SqueakyApp.pdb

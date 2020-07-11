@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\SqueakyApp.UWP\\SqueakyApp.UWP.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\SqueakyApp.UWP\\SqueakyApp.UWP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\SqueakyApp.UWP\\SqueakyApp.UWP.csproj",
+        "projectName": "SqueakyApp.UWP",
+        "projectPath": "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\SqueakyApp.UWP\\SqueakyApp.UWP.csproj",
+        "packagesPath": "C:\\Users\\dmc\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\SqueakyApp.UWP\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\.nuget\\NuGet.Config",
+          "C:\\Users\\dmc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\SqueakyApp\\SqueakyApp.fsproj": {
+                "projectPath": "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\SqueakyApp\\SqueakyApp.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\SqueakyApp\\SqueakyApp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\SqueakyApp\\SqueakyApp.fsproj",
+        "projectName": "SqueakyApp",
+        "projectPath": "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\SqueakyApp\\SqueakyApp.fsproj",
+        "packagesPath": "C:\\Users\\dmc\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\SqueakyApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "D:\\Documents\\Projects\\FSharp\\fabulousTest\\SqueakyApp\\.nuget\\NuGet.Config",
+          "C:\\Users\\dmc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.1, )",
+              "generatePathProperty": true
+            },
+            "Fabulous.XamarinForms": {
+              "target": "Package",
+              "version": "[0.54.2, )",
+              "generatePathProperty": true
+            },
+            "Fabulous.XamarinForms.LiveUpdate": {
+              "target": "Package",
+              "version": "[0.54.2, )",
+              "generatePathProperty": true
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )",
+              "generatePathProperty": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.1, )",
+              "generatePathProperty": true
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.6.0.726, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

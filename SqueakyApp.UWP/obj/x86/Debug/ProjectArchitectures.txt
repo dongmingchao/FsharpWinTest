@@ -1,0 +1,1 @@
+D:\Documents\Projects\FSharp\fabulousTest\SqueakyApp\SqueakyApp.UWP\SqueakyApp.UWP.csproj;x86
